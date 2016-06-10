@@ -58,7 +58,7 @@ GLUT is the OpenGL Utility Toolkit, a window system independent toolkit for writ
 * Video
 * LGPL
 
-Streamer is a library for constructing graphs of media-handling components.
+GStreamer is a library for constructing graphs of media-handling components.
 
 [Kiss FFT](http://kissfft.sourceforge.net/)
 ----------
